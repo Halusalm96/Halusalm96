@@ -1,6 +1,4 @@
-# Let's create the content for the README.md file in Markdown format.
-readme_content = """
-# 안녕하세요! 노신영입니다 👋  
+# 안녕하세요! 개발자로 성장하고 싶은 노신영입니다 👋  
 > 끈기와 열정을 가진 개발자입니다. 새로운 도전을 즐기며 성장하고 있습니다.
 
 ---
