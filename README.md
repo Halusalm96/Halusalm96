@@ -1,4 +1,4 @@
-# 안녕하세요! 개발자로 성장하고 싶은 노신영입니다 👋  
+# 안녕하세요! 프로 개발자로 성장하고 싶은 노신영입니다 👋  
 > 끈기와 열정을 가진 개발자입니다. 새로운 도전을 즐기며 성장하고 있습니다.
 
 ---
@@ -14,15 +14,16 @@
 ## 🙋‍♂️ 소개
 저는 약 1년간 국비지원 교육과 부트캠프 과정을 통해 개발자로서의 역량을 키워왔습니다. 주로 **JAVA**, **Python**, **C/C++**에 중점을 두고 있으며, **AI**와 **로봇**, **웹, 앱 개발**에 대한 관심이 생겨 공부를 시작하였습니다.
 
-- **주요 기술**:  
-  - 백엔드 : Java, Python, Spring Boot
+- **주요 기술**:
+  - 주요 언어 : Python, Java, C, C++, C#
+  - 운영 체제 : Ubuntu, Linux, Window
+  - 로봇 : ROS, Gazebo, SLAM, Navigation
   - 인공지능 : OpenCV, YOLO (v8), TensorFlow, ONNX
-  - 로봇 : ROS, Linux, C, C++, Gazebo, SLAM, Navigation
   - 데이터베이스 : MariaDB, MySQL, SQL, Oracle
-  - 클라우드 : AWS
-  - 모바일 : Android Studio, Kotlin, XML, SpringBoot
+  - 클라우드 : AWS, Google Cloud
+  - 모바일 : Android Studio, Kotlin, XML, Spring Boot
   - 버전 관리 : Git, GitHub, Notion
-  - 도구 : VSCode, IntelliJ, VisualStudioCode
+  - 도구 : VSCode, IntelliJ, Visual Studio Code, Visual Studio
 - **프로젝트 경험**:
   - **놀이공원 안내 로봇**을 개발하여, AI와 자율주행 기술을 활용해 실시간 환경 감지 및 안내 기능을 구현했습니다.
 
@@ -33,8 +34,12 @@
 ## 📖 학력
 ### 중원대학교 (충북)  
 **[경영학과] 학사**  
-2016.03 - 2022.02  
+2016.03 - 2022.02 
 학점: 3.12 / 4.5
+
+### 선인고등학교 (인천)  
+**[이과] 졸업**  
+2012.03 - 2015.02
 
 ---
 
